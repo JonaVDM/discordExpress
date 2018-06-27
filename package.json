@@ -1,0 +1,28 @@
+{
+  "name": "discordexpress",
+  "version": "0.0.1",
+  "description": "a discord express test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonaTOL/tempex.git"
+  },
+  "keywords": [
+    "express",
+    "Jona",
+    "template"
+  ],
+  "author": "Jona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonaTOL/tempex/issues"
+  },
+  "homepage": "https://github.com/JonaTOL/tempex#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3"
+  }
+}
