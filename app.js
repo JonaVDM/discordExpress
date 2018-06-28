@@ -3,7 +3,7 @@ const express = require("express");
 const mainRoutes = require("./routes/router");
 
 //require api
-const apiEx = require("./api/ex");
+const apiEx = require("./api/discord");
 
 //set up the port
 const port = 3210;
